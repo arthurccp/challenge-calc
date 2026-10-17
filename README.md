@@ -8,7 +8,6 @@ Capturas realizadas no simulador de iPhone 16 Pro.
 
 <p>
   <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.18.28.png" alt="Calculadora com entrada de número decimal" width="240">
-  <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.18.37.png" alt="Resultado de uma multiplicação com números decimais" width="240">
   <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.19.06.png" alt="Histórico de cálculos com resultados, datas e horários" width="240">
 </p>
 
