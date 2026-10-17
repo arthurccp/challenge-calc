@@ -2,6 +2,21 @@
 
 Aplicativo de calculadora para iPhone e iPad, desenvolvido em Swift, com interface em SwiftUI integrada ao ciclo de vida UIKit. Permite realizar operações básicas e consultar um histórico salvo localmente no dispositivo.
 
+## Telas do aplicativo
+
+Capturas realizadas no simulador de iPhone 16 Pro.
+
+<p>
+  <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.18.28.png" alt="Calculadora com entrada de número decimal" width="240">
+  <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.18.37.png" alt="Resultado de uma multiplicação com números decimais" width="240">
+  <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.19.06.png" alt="Histórico de cálculos com resultados, datas e horários" width="240">
+</p>
+
+<p>
+  <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.19.10.png" alt="Confirmação para excluir todo o histórico" width="240">
+  <img src="img/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-17%20at%2003.19.14.png" alt="Estado vazio do histórico após excluir os cálculos" width="240">
+</p>
+
 ## Funcionalidades
 
 - Adição, subtração, multiplicação e divisão.
